@@ -1,0 +1,93 @@
+*{
+  font-family: sans-serif;
+}
+
+.active{
+  font-weight: bold;
+}
+
+body{
+  background-image: linear-gradient(skyblue,dodgerblue);
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  padding-left: 40px;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.row #cover {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.row img{
+  border-radius: 20px;
+}
+
+.title #article{
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.text-justify {
+  font-size: 18px;
+  line-height: 1.5;
+  text-indent: 15px;
+}
+
+footer{
+  background-color: darkblue;
+  height: 75px;
+  margin-top: 100px;
+}
+
+footer p{
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.borderart{
+  border-style: none;
+  border-radius: 20px;
+  padding: 15px;
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.borderart img{
+  border-radius: 20px;
+}
+
+.card{
+  border-style: none;
+  border-radius: 20px;
+  padding-right: 18px;
+  margin-top: 20px;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.card img{
+  border-radius: 20px;
+  margin: 10px;
+}
+
+#heart{
+  height: 275px;
+}
+
+#sengoku{
+  height: 260px;
+}
+
+#borsa {
+  height: 260px;
+}
